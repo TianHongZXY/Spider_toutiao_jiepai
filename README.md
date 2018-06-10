@@ -1,1 +1,2 @@
-# Spider_toutiao_jiepai
+# 爬取今日头条的街拍
+ 分析并爬取ajax
